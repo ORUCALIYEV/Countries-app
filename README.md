@@ -1,7 +1,5 @@
-# This was my one of the first projects when I started to learn React.js. I had forgotten to push it.
+# This was my one of the first projects when I started to learn React.js
 USED IN: CSS, React.js![Screenshot 2023-04-05 040340](https://user-images.githubusercontent.com/94292357/229948526-ce5a76bb-445d-409b-8c2c-28291a51259d.png)
-This was my one of the first projects when I started to learn React.js.
-USED IN: CSS, React.js
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
